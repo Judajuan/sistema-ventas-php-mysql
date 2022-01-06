@@ -1,9 +1,8 @@
-# sistema-stock-y-ventas-php-mysql
+# sistema-ventas-php-mysql
 Este aplicativo permite ingresar, editar y eliminar productos de una tienda. Tambien permite realizar ventas mediante el id del producto y en otro modulo tiene una lista detallada de todas las ventas realizadas.
 
 # Instalar
-1. Descarga el archivo .Zip o clona el repositorio con comando git clone en carpeta local htdocs de XAMPP .
-
+1. Descarga el archivo .Zip o clonar el repositorio Github con comando git clone en carpeta local htdocs de XAMPP .
 
 2. Importa la base de datos ejecutando desde consola de comandos:
 `mysql -u tu_usuario -p < ruta\de\db_schema.sql`
